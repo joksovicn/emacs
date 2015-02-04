@@ -3,5 +3,8 @@
 (source melpa)
 
 (depends-on "cask")
-(depends-on "zenburn-theme")
+(depends-on "flycheck")
 (depends-on "pallet")
+(depends-on "scala-mode2")
+(depends-on "web-mode")
+(depends-on "zenburn-theme")
