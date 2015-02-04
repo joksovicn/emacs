@@ -1,0 +1,8 @@
+.DS_Store
+.cask
+.ensime
+*.elc
+.savehist
+.saveplace
+ido.last
+recentf
