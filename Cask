@@ -9,6 +9,7 @@
 (depends-on "magit")
 (depends-on "mo-git-blame")
 (depends-on "pallet")
+(depends-on "php-mode")
 (depends-on "scala-mode2")
 (depends-on "web-mode")
 (depends-on "zenburn-theme")
