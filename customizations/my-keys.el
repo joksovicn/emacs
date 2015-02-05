@@ -4,6 +4,9 @@
 ;; don't use Lion press-and-hold
 (ns-set-resource nil "ApplePressAndHoldEnabled" "NO")
 
+;; option/alt is meta key
+(setq mac-command-key-is-meta nil)
+
 ;; yes-or-no answerable with 'y' or 'n'
 (fset 'yes-or-no-p 'y-or-n-p)
 
@@ -13,9 +16,6 @@
 ;; easily move lines up and down using utility functions
 (global-set-key [(meta up)]  'move-line-up)
 (global-set-key [(meta down)]  'move-line-down)
-
-;; option/alt is meta key
-(setq mac-command-key-is-meta nil)
 
 ;; switch to shell
 (global-set-key (kbd "s-0") 'visit-ansi-term)
