@@ -26,10 +26,6 @@
 (setenv "GIT_AUTHOR_NAME" "Nemanja Joksovic")
 (setenv "GIT_AUTHOR_EMAIL" "joksovicn@gmail.com")
 
-;; add directories to the load path
-(add-to-list 'load-path "~/.emacs.d/customizations")
-(add-to-list 'load-path "~/.emacs.d/utilities")
-
 ;; function to load all elisp files in a directory
 (load-file "~/.emacs.d/utilities/load-directory.el")
 

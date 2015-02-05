@@ -4,6 +4,10 @@
 
 (depends-on "cask")
 (depends-on "flycheck")
+(depends-on "gist")
+(depends-on "git-gutter")
+(depends-on "magit")
+(depends-on "mo-git-blame")
 (depends-on "pallet")
 (depends-on "scala-mode2")
 (depends-on "web-mode")
