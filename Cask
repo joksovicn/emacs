@@ -4,6 +4,9 @@
 
 (depends-on "ac-js2")
 (depends-on "cask")
+(depends-on "dired+")
+(depends-on "dired-details+")
+(depends-on "dired-single")
 (depends-on "flycheck")
 (depends-on "gist")
 (depends-on "git-gutter")
