@@ -7,6 +7,7 @@
 (depends-on "dired+")
 (depends-on "dired-details+")
 (depends-on "dired-single")
+(depends-on "ensime")
 (depends-on "flycheck")
 (depends-on "gist")
 (depends-on "git-gutter")
