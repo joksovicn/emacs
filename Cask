@@ -8,6 +8,7 @@
 (depends-on "dired+")
 (depends-on "dired-details+")
 (depends-on "dired-single")
+(depends-on "ensime")
 (depends-on "flx-ido")
 (depends-on "flycheck")
 (depends-on "gist")
