@@ -1,9 +1,12 @@
 .DS_Store
 .cask
 .ensime
+ensime
 *.elc
 .savehist
 .saveplace
 ido.last
 recentf
 auto-save-list
+projectile-bookmarks.eld
+projectile.cache
