@@ -42,7 +42,7 @@
 (display-time-mode 1)
 
 ;; hide line number mode
-(line-number-mode 0)
+(line-number-mode 1)
 
 ;; hide column number mode
 (column-number-mode 0)
